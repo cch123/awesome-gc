@@ -76,10 +76,11 @@
 
 ### Python
 
-TODO
+[article][Python Garbage Collection: What It Is and How It Works](https://stackify.com/python-garbage-collection/)
+[article][Design of CPython’s Garbage Collector](https://devguide.python.org/garbage_collector/)
+[article][Memory Management And Garbage Collection In Python](https://towardsdatascience.com/memory-management-and-garbage-collection-in-python-c1cb51d1612c)
 
 ### Ruby
 
-TODO
-
 [video][RubyConf 2015 - The Hitchhiker's Guide to Ruby GC by Eric Weinstein](https://www.youtube.com/watch?v=NnqId_OvUU4)
+
